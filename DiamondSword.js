@@ -1,5 +1,5 @@
 var item="diamond sword";
-function useItem(itemId, blockId, side)
+function useItem(x y z, itemId, blockId, side)
 {
 if (itemId==276)
 {
