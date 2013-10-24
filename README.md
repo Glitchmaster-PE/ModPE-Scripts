@@ -1,4 +1,4 @@
 ModPE-Scripts
 =============
 
-None currently work, any help is appreciated
+I currently only have one bad one, but I plan on making many more soon!
