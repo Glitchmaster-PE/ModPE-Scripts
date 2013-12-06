@@ -5,3 +5,4 @@ function attckHook(attacker,victim)
     Entity.remove(victim);
   }
 }
+?>
